@@ -6,4 +6,6 @@ to get quotes from Shakespeare and JK Rowling that are less than 175 characters:
 
 import quotesByAuthor
 
-getAllQuotes(["Shakespeare", "JK Rowling"], 175)
+getAllQuotes(["Shakespeare", "JK Rowling"], 175) // saves all the quotes to a json file
+
+getRandomQuote() // displays a random quote from the json file
