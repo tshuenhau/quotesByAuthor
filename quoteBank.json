@@ -1,0 +1,1191 @@
+[
+    [
+        "\u201cThe fool doth think he is wise, but the wise man knows himself to be a fool.\u201d",
+        "William Shakespeare",
+        "As You Like It",
+        [],
+        43214
+    ],
+    [
+        "\u201cLove all, trust a few, do wrong to none.\u201d",
+        "William Shakespeare",
+        "All's Well That Ends Well",
+        [
+            "love",
+            "trust",
+            "wrong"
+        ],
+        35517
+    ],
+    [
+        "\u201cLove looks not with the eyes, but with the mind, And therefore is winged Cupid painted blind.\u201d",
+        "William Shakespeare",
+        "A Midsummer Night's Dream",
+        [],
+        23216
+    ],
+    [
+        "\u201cBe not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them.\u201d",
+        "William Shakespeare",
+        "Twelfth Night",
+        [],
+        15142
+    ],
+    [
+        "\u201cDoubt thou the stars are fire; Doubt that the sun doth move; Doubt truth to be a liar; But never doubt I love.\u201d",
+        "William Shakespeare",
+        "Hamlet",
+        [],
+        9004
+    ],
+    [
+        "\u201cThe fault, dear Brutus, is not in our stars, but in ourselves.\u201d",
+        "William Shakespeare",
+        "Julius Caesar",
+        [
+            "self-responsibility",
+            "timidity"
+        ],
+        8677
+    ],
+    [
+        "\u201cThis above all: to thine own self be true, And it must follow, as the night the day, Thou canst not then be false to any man.\u201d",
+        "William Shakespeare",
+        "Hamlet",
+        [
+            "love",
+            "music"
+        ],
+        7227
+    ],
+    [
+        "\u201cThere is nothing either good or bad, but thinking makes it so.\u201d",
+        "William Shakespeare",
+        "Hamlet",
+        [],
+        7206
+    ],
+    [
+        "\u201cHell is empty and all the devils are here.\u201d",
+        "William Shakespeare",
+        "The Tempest",
+        [],
+        6881
+    ],
+    [
+        "\u201cIt is not in the stars to hold our destiny but in ourselves.\u201d",
+        "William Shakespeare",
+        null,
+        [],
+        6756
+    ],
+    [
+        "\u201cIf music be the food of love, play on, Give me excess of it; that surfeiting, The appetite may sicken, and so die.\u201d",
+        "William Shakespeare",
+        "Twelfth Night",
+        [
+            "romance",
+            "unrequited-love"
+        ],
+        5731
+    ],
+    [
+        "\u201cWe know what we are, but not what we may be.\u201d",
+        "William Shakespeare",
+        null,
+        [
+            "identity",
+            "possibilities"
+        ],
+        4770
+    ],
+    [
+        "\u201cWords are easy, like the wind; Faithful friends are hard to find.\u201d",
+        "William Shakespeare",
+        "The Passionate Pilgrim",
+        [],
+        3944
+    ],
+    [
+        "\u201cYou speak an infinite deal of nothing.\u201d",
+        "William Shakespeare",
+        "The Merchant of Venice",
+        [
+            "shakespeare"
+        ],
+        3930
+    ],
+    [
+        "\u201cThough she be but little, she is fierce!\u201d",
+        "William Shakespeare",
+        "A Midsummer Night's Dream",
+        [],
+        3662
+    ],
+    [
+        "\u201cThese violent delights have violent ends And in their triump die, like fire and powder Which, as they kiss, consume\u201d",
+        "William Shakespeare",
+        "Romeo and Juliet",
+        [
+            "shakespeare"
+        ],
+        3508
+    ],
+    [
+        "\u201cMy tongue will tell the anger of my heart, or else my heart concealing it will break.\u201d",
+        "William Shakespeare",
+        "The Taming of the Shrew",
+        null,
+        3296
+    ],
+    [
+        "\u201cMy bounty is as boundless as the sea, My love as deep; the more I give to thee, The more I have, for both are infinite.\u201d",
+        "William Shakespeare",
+        "Romeo and Juliet",
+        null,
+        3135
+    ],
+    [
+        "\u201cBy the pricking of my thumbs, Something wicked this way comes.\u201d",
+        "William Shakespeare",
+        "Macbeth",
+        [
+            "macbeth"
+        ],
+        3012
+    ],
+    [
+        "\u201cThe course of true love never did run smooth.\u201d",
+        "William Shakespeare",
+        "A Midsummer Night's Dream",
+        [
+            "true-love"
+        ],
+        2426
+    ],
+    [
+        "\u201cMy only love sprung from my only hate! Too early seen unknown, and known too late! Prodigious birth of love it is to me, That I must love a loathed enemy.\u201d",
+        "William Shakespeare",
+        null,
+        [
+            "romeo-and-juliet"
+        ],
+        2372
+    ],
+    [
+        "\u201cLord, what fools these mortals be!\u201d",
+        "William Shakespeare",
+        "A Midsummer Night's Dream",
+        [
+            "elizabethan",
+            "robin-goodfellow"
+        ],
+        2359
+    ],
+    [
+        "\u201cStars, hide your fires; Let not light see my black and deep desires.\u201d",
+        "William Shakespeare",
+        "Macbeth",
+        [
+            "dark-plans",
+            "darkness",
+            "stealth"
+        ],
+        2338
+    ],
+    [
+        "\u201cI like this place and could willingly waste my time in it.\u201d",
+        "William Shakespeare",
+        null,
+        [
+            "celia",
+            "nature",
+            "poetry"
+        ],
+        2195
+    ],
+    [
+        "\u201cDon't waste your love on somebody, who doesn't value it.\u201d",
+        "William Shakespeare",
+        "Romeo and Juliet",
+        [
+            "romeo-and-juliet",
+            "values",
+            "waste"
+        ],
+        2150
+    ],
+    [
+        "\u201cthus with a kiss I die\u201d",
+        "William Shakespeare",
+        "Romeo and Juliet",
+        [
+            "romance"
+        ],
+        2016
+    ],
+    [
+        "\u201cDouble, double, toil and trouble; Fire burn, and cauldron bubble!\u201d",
+        "William Shakespeare",
+        "Macbeth",
+        null,
+        1948
+    ],
+    [
+        "\u201cGood night, good night! parting is such sweet sorrow, That I shall say good night till it be morrow.\u201d",
+        "William Shakespeare",
+        "Romeo and Juliet",
+        [
+            "love",
+            "passion"
+        ],
+        1868
+    ],
+    [
+        "\u201cTo die, to sleep - To sleep, perchance to dream - ay, there's the rub, For in this sleep of death what dreams may come...\u201d",
+        "William Shakespeare",
+        "Hamlet",
+        [
+            "death-and-dying",
+            "hamlet",
+            "shakespeare"
+        ],
+        1865
+    ],
+    [
+        "\u201cThere are more things in Heaven and Earth, Horatio, than are dreamt of in your philosophy.\u201d",
+        "William Shakespeare",
+        "Hamlet",
+        [
+            "supernatural"
+        ],
+        1813
+    ],
+    [
+        "\u201cWith mirth and laughter let old wrinkles come.\u201d",
+        "William Shakespeare",
+        "The Merchant of Venice",
+        [
+            "happiness",
+            "laughter",
+            "shakespeare"
+        ],
+        1773
+    ],
+    [
+        "\u201cAll that glisters is not gold; Often have you heard that told: Many a man his life hath sold But my outside to behold: Gilded tombs do worms enfold.\u201d",
+        "William Shakespeare",
+        "The Merchant of Venice",
+        [],
+        1693
+    ],
+    [
+        "\u201cDispute not with her: she is lunatic.\u201d",
+        "William Shakespeare",
+        "Richard III",
+        [
+            "women"
+        ],
+        1652
+    ],
+    [
+        "\u201cSigh no more, ladies, sigh no more, Men were deceivers ever,- One foot in sea and one on shore, To one thing constant never.\u201d",
+        "William Shakespeare",
+        "Much Ado About Nothing",
+        [
+            "happy",
+            "ladies",
+            "men",
+            "sadness",
+            "understanding"
+        ],
+        1620
+    ],
+    [
+        "\u201cOur doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.\u201d",
+        "William Shakespeare",
+        "Measure for Measure",
+        [
+            "doubt",
+            "resolve",
+            "self-doubt"
+        ],
+        1618
+    ],
+    [
+        "\u201cThough this be madness, yet there is method in't.\u201d",
+        "William Shakespeare",
+        "Hamlet",
+        [],
+        1432
+    ],
+    [
+        "\u201cDid my heart love till now? forswear it, sight! For I ne'er saw true beauty till this night.\u201d",
+        "William Shakespeare",
+        "Romeo & Juliet",
+        [],
+        1429
+    ],
+    [
+        "\u201cLife ... is a tale Told by an idiot, full of sound and fury, Signifying nothing.\u201d",
+        "William Shakespeare",
+        "Macbeth",
+        [
+            "futility",
+            "hopelessness",
+            "life"
+        ],
+        1277
+    ],
+    [
+        "\u201cExpectation is the root of all heartache.\u201d",
+        "William Shakespeare",
+        null,
+        null,
+        1270
+    ],
+    [
+        "\u201cFor never was a story of more woe than this of Juliet and her Romeo.\u201d",
+        "William Shakespeare",
+        "Romeo and Juliet",
+        [
+            "teen-suicide",
+            "tragedy"
+        ],
+        1255
+    ],
+    [
+        "\u201cBrevity is the soul of wit.\u201d",
+        "William Shakespeare",
+        "Hamlet",
+        [
+            "wit"
+        ],
+        1252
+    ],
+    [
+        "\u201cTo weep is to make less the depth of grief.\u201d",
+        "William Shakespeare",
+        "King Henry VI, Part 3",
+        [
+            "grief",
+            "sorrow"
+        ],
+        1223
+    ],
+    [
+        "\u201cListen to many, speak to a few.\u201d",
+        "William Shakespeare",
+        "Hamlet",
+        null,
+        1209
+    ],
+    [
+        "\u201cGive sorrow words; the grief that does not speak knits up the o-er wrought heart and bids it break.\u201d",
+        "William Shakespeare",
+        "Macbeth",
+        [
+            "grief",
+            "loss",
+            "mourning",
+            "sadness",
+            "sorrow",
+            "words"
+        ],
+        1192
+    ],
+    [
+        "\u201cLove is heavy and light, bright and dark, hot and cold, sick and healthy, asleep and awake- its everything except what it is! (Act 1, scene 1)\u201d",
+        "William Shakespeare",
+        "Romeo & Juliet",
+        [
+            "poetry"
+        ],
+        1149
+    ],
+    [
+        "\u201cThe breaking of so great a thing should make A greater crack: the round world Should have shook lions into civil streets, And citizens to their dens.\u201d",
+        "William Shakespeare",
+        "Antony and Cleopatra",
+        null,
+        1102
+    ],
+    [
+        "\u201cDo not swear by the moon, for she changes constantly. then your love would also change.\u201d",
+        "William Shakespeare",
+        "Romeo and Juliet",
+        [
+            "moon",
+            "romeo-nad-juliet"
+        ],
+        1085
+    ],
+    [
+        "\u201cThey do not love that do not show their love.\u201d",
+        "William Shakespeare",
+        "The Two Gentlemen of Verona",
+        [],
+        1051
+    ],
+    [
+        "\u201cOne may smile, and smile, and be a villain. \u201d",
+        "William Shakespeare",
+        "Hamlet",
+        null,
+        1038
+    ],
+    [
+        "\u201cLook like the innocent flower, But be the serpent under it.\u201d",
+        "William Shakespeare",
+        "Macbeth",
+        null,
+        1030
+    ],
+    [
+        "\u201cConscience doth make cowards of us all.\u201d",
+        "William Shakespeare",
+        "Hamlet",
+        [],
+        1005
+    ],
+    [
+        "\u201cWe are such stuff as dreams are made on, and our little life is rounded with a sleep.\u201d",
+        "William Shakespeare",
+        "The Tempest",
+        [
+            "imagination",
+            "psychology"
+        ],
+        1003
+    ],
+    [
+        "\u201cHow far that little candle throws his beams! So shines a good deed in a weary world.\u201d",
+        "William Shakespeare",
+        "The Merchant of Venice",
+        [
+            "goodness",
+            "humanity",
+            "inspirational",
+            "life",
+            "light",
+            "world"
+        ],
+        988
+    ],
+    [
+        "\u201cPresume not that I am the thing I was.\u201d",
+        "William Shakespeare",
+        "Henry IV, Part 2",
+        null,
+        946
+    ],
+    [
+        "\u201cThe first thing we do, let's kill all the lawyers.\u201d",
+        "William Shakespeare",
+        "King Henry VI, Part 2",
+        [
+            "classic",
+            "murder",
+            "wit"
+        ],
+        930
+    ],
+    [
+        "\u201cI can see he's not in your good books,' said the messenger. 'No, and if he were I would burn my library.\u201d",
+        "William Shakespeare",
+        "Much Ado About Nothing",
+        null,
+        921
+    ],
+    [
+        "\u201cMen at some time are masters of their fates. The fault, dear Brutus, is not in our stars, but in ourselves, that we are underlings.\u201d",
+        "William Shakespeare",
+        "Julius Caesar",
+        [],
+        887
+    ],
+    [
+        "\u201cI had rather hear my dog bark at a crow, than a man swear he loves me.\u201d",
+        "William Shakespeare",
+        "Much Ado About Nothing",
+        [
+            "courtship",
+            "empowerment",
+            "freedom",
+            "happiness",
+            "husbands",
+            "independence",
+            "love",
+            "marriage",
+            "self-determination",
+            "singles",
+            "wooing"
+        ],
+        847
+    ],
+    [
+        "\u201cIn time we hate that which we often fear.\u201d",
+        "William Shakespeare",
+        "Antony and Cleopatra",
+        [
+            "hate",
+            "hatred"
+        ],
+        821
+    ],
+    [
+        "\u201cWhat's done cannot be undone.\u201d",
+        "William Shakespeare",
+        "Macbeth",
+        [
+            "faits-accomplis",
+            "truth"
+        ],
+        796
+    ],
+    [
+        "\u201cLet me be that I am and seek not to alter me.\u201d",
+        "William Shakespeare",
+        "Much Ado About Nothing",
+        null,
+        778
+    ],
+    [
+        "\u201cAnd yet,to say the truth, reason and love keep little company together nowadays.\u201d",
+        "William Shakespeare",
+        "A Midsummer Night's Dream",
+        [],
+        769
+    ],
+    [
+        "\u201cMy words fly up, my thoughts remain below: Words without thoughts never to heaven go.\u201d",
+        "William Shakespeare",
+        "Hamlet",
+        [],
+        757
+    ],
+    [
+        "\u201cWhat's past is prologue.\u201d",
+        "William Shakespeare",
+        "The Tempest",
+        [],
+        747
+    ],
+    [
+        "\u201cDo you bite your thumb at us, sir?\u201d",
+        "William Shakespeare",
+        "Romeo and Juliet",
+        [],
+        727
+    ],
+    [
+        "\u201cWisely and slow; they stumble that run fast.\u201d",
+        "William Shakespeare",
+        "Romeo and Juliet",
+        [
+            "shakespeare",
+            "wisdom"
+        ],
+        713
+    ],
+    [
+        "\u201cThis above all: to thine own self be true.\u201d",
+        "William Shakespeare",
+        "Hamlet",
+        [
+            "truth"
+        ],
+        683
+    ],
+    [
+        "\u201cLove is a smoke made with the fume of sighs.\u201d",
+        "William Shakespeare",
+        "Romeo and Juliet",
+        [],
+        644
+    ],
+    [
+        "\u201cNow cracks a noble heart. Good-night, sweet prince; And flights of angels sing thee to thy rest. \u201d",
+        "William Shakespeare",
+        "Hamlet",
+        [],
+        641
+    ],
+    [
+        "\u201cO teach me how I should forget to think (1.1.224)\u201d",
+        "William Shakespeare",
+        "Romeo and Juliet",
+        [
+            "education"
+        ],
+        640
+    ],
+    [
+        "\u201cDo you not know I am a woman? when I think, I must speak.\u201d",
+        "William Shakespeare",
+        "As You Like It",
+        [],
+        630
+    ],
+    [
+        "\u201cWhat's in a name? that which we call a rose By any other name would smell as sweet.\u201d",
+        "William Shakespeare",
+        "Romeo and Juliet",
+        [
+            "labels",
+            "names",
+            "personality"
+        ],
+        620
+    ],
+    [
+        "\u201c...Who could refrain, That had a heart to love, and in that heart Courage to make love known?\u201d",
+        "William Shakespeare",
+        "Macbeth",
+        [
+            "friendship",
+            "love"
+        ],
+        606
+    ],
+    [
+        "\u201cSome are born great, others achieve greatness.\u201d",
+        "William Shakespeare",
+        "Twelfth Night",
+        [
+            "shakespeare"
+        ],
+        601
+    ],
+    [
+        "\u201cThere is no friend as loyal as a book.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "friends",
+            "novelist-quotes"
+        ],
+        22723
+    ],
+    [
+        "\u201cThere is nothing to writing. All you do is sit down at a typewriter and bleed.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "writing"
+        ],
+        18844
+    ],
+    [
+        "\u201cHappiness in intelligent people is the rarest thing I know.\u201d",
+        "Ernest Hemingway",
+        "The Garden of Eden",
+        [],
+        14569
+    ],
+    [
+        "\u201cI love sleep. My life has the tendency to fall apart when I'm awake, you know?\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        9257
+    ],
+    [
+        "\u201cThe best way to find out if you can trust somebody is to trust them.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "truth"
+        ],
+        4841
+    ],
+    [
+        "\u201cThe most painful thing is losing yourself in the process of loving someone too much, and forgetting that you are special too.\u201d",
+        "Ernest Hemingway",
+        "Men Without Women",
+        [
+            "pain",
+            "relationships",
+            "self"
+        ],
+        4751
+    ],
+    [
+        "\u201cThere is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "self-improvement"
+        ],
+        4613
+    ],
+    [
+        "\u201cAlways do sober what you said you'd do drunk. That will teach you to keep your mouth shut.\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        4160
+    ],
+    [
+        "\u201cThe world breaks everyone, and afterward, many are strong at the broken places.\u201d",
+        "Ernest Hemingway",
+        null,
+        null,
+        4005
+    ],
+    [
+        "\u201cThe first draft of anything is shit.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "writing"
+        ],
+        3994
+    ],
+    [
+        "\u201cAll you have to do is write one true sentence. Write the truest sentence that you know.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "writing",
+            "writing-advice"
+        ],
+        3908
+    ],
+    [
+        "\u201cI drink to make other people more interesting.\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        3147
+    ],
+    [
+        "\u201cWhen people talk, listen completely. Most people never listen.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "empathy",
+            "listening",
+            "understanding-others"
+        ],
+        3014
+    ],
+    [
+        "\u201cEvery day is a new day. It is better to be lucky. But I would rather be exact. Then when luck comes you are ready.\u201d",
+        "Ernest Hemingway",
+        "The Old Man and the Sea",
+        null,
+        2586
+    ],
+    [
+        "\u201cAll thinking men are atheists.\u201d",
+        "Ernest Hemingway",
+        "A Farewell to Arms",
+        [
+            "inspirational"
+        ],
+        2458
+    ],
+    [
+        "\u201cNever think that war, no matter how necessary, nor how justified, is not a crime.\u201d",
+        "Ernest Hemingway",
+        "Ernest Hemingway: A Literary Reference",
+        [],
+        2081
+    ],
+    [
+        "\u201cBut man is not made for defeat,\" he said. \"A man can be destroyed but not defeated.\u201d",
+        "Ernest Hemingway",
+        "The Old Man and the Sea",
+        [],
+        1862
+    ],
+    [
+        "\u201cEvery man's life ends the same way. It is only the details of how he lived and how he died that distinguish one man from another.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "life"
+        ],
+        1656
+    ],
+    [
+        "\u201cyou can't get away from yourself by moving from one place to another.\u201d",
+        "Ernest Hemingway",
+        "The Sun Also Rises",
+        [
+            "self-awareness"
+        ],
+        1593
+    ],
+    [
+        "\u201cNever confuse movement with action.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "progress"
+        ],
+        1491
+    ],
+    [
+        "\u201cThe world breaks every one and afterward many are strong at the broken places.\u201d",
+        "Ernest Hemingway",
+        "A Farewell to Arms",
+        [],
+        1481
+    ],
+    [
+        "\u201cA cat has absolute emotional honesty: human beings, for one reason or another, may hide their feelings, but a cat does not.\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        1465
+    ],
+    [
+        "\u201cAs a writer, you should not judge, you should understand.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "writing-advice"
+        ],
+        1409
+    ],
+    [
+        "\u201cI can't stand it to think my life is going so fast and I'm not really living it.\u201d",
+        "Ernest Hemingway",
+        "The Sun Also Rises",
+        [],
+        1196
+    ],
+    [
+        "\u201cThere's no one thing that's true. It's all true.\u201d",
+        "Ernest Hemingway",
+        "For Whom the Bell Tolls",
+        null,
+        1121
+    ],
+    [
+        "\u201cNever to go on trips with anyone you do not love.\u201d",
+        "Ernest Hemingway",
+        "A Moveable Feast",
+        null,
+        1082
+    ],
+    [
+        "\u201cAnd you'll always love me won't you? Yes And the rain won't make any difference? No\u201d",
+        "Ernest Hemingway",
+        "A Farewell to Arms",
+        null,
+        1073
+    ],
+    [
+        "\u201cMy aim is to put down on paper what I see and what I feel in the best and simplest way.\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        1048
+    ],
+    [
+        "\u201cYou are so brave and quiet I forget you are suffering.\u201d",
+        "Ernest Hemingway",
+        null,
+        null,
+        1015
+    ],
+    [
+        "\u201cWrite hard and clear about what hurts.\u201d",
+        "Ernest Hemingway",
+        null,
+        null,
+        998
+    ],
+    [
+        "\u201cIf you are lucky enough to have lived in Paris as a young man, then wherever you go for the rest of your life, it stays with you, for Paris is a moveable feast.\u201d",
+        "Ernest Hemingway",
+        "A Moveable Feast",
+        [],
+        995
+    ],
+    [
+        "\u201cIn order to write about life first you must live it.\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        842
+    ],
+    [
+        "\u201cI didn't want to kiss you goodbye \u2014 that was the trouble \u2014 I wanted to kiss you good night \u2014 and there's a lot of difference.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "kiss",
+            "love",
+            "trouble"
+        ],
+        833
+    ],
+    [
+        "\u201cwe would be together and have our books and at night be warm in bed together with the windows open and the stars bright.\u201d",
+        "Ernest Hemingway",
+        "A Moveable Feast",
+        [],
+        813
+    ],
+    [
+        "\u201cAn intelligent man is sometimes forced to be drunk to spend time with his fools.\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        803
+    ],
+    [
+        "\u201cSo far, about morals, I know only that what is moral is what you feel good after and what is immoral is what you feel bad after.\u201d",
+        "Ernest Hemingway",
+        "Death in the Afternoon",
+        [
+            "morals",
+            "right",
+            "right-and-wrong",
+            "wrong"
+        ],
+        799
+    ],
+    [
+        "\u201cBut life isn't hard to manage when you've nothing to lose.\u201d",
+        "Ernest Hemingway",
+        "A Farewell to Arms",
+        null,
+        776
+    ],
+    [
+        "\u201cWhen you love you wish to do things for. You wish to sacrifice for. You wish to serve.\u201d",
+        "Ernest Hemingway",
+        "A Farewell to Arms",
+        [
+            "self-sacrifice"
+        ],
+        773
+    ],
+    [
+        "\u201cThe first and final thing you have to do in this world is to last it and not be smashed by it.\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        757
+    ],
+    [
+        "\u201cNo, that is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful.\u201d",
+        "Ernest Hemingway",
+        "A Farewell to Arms",
+        [
+            "wisdom"
+        ],
+        752
+    ],
+    [
+        "\u201cAll things truly wicked start from innocence.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "innocence",
+            "wickedness"
+        ],
+        745
+    ],
+    [
+        "\u201cThe hard part about writing a novel is finishing it.\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        731
+    ],
+    [
+        "\u201cIsn't it pretty to think so.\u201d",
+        "Ernest Hemingway",
+        "The Sun Also Rises",
+        null,
+        716
+    ],
+    [
+        "\u201cIf two people love each other there can be no happy end to it.\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        692
+    ],
+    [
+        "\u201cIt is awfully easy to be hard-boiled about everything in the daytime, but at night it is another thing.\u201d",
+        "Ernest Hemingway",
+        "The Sun Also Rises",
+        null,
+        680
+    ],
+    [
+        "\u201cYou know it makes one feel rather good deciding not to be a bitch.\u201d",
+        "Ernest Hemingway",
+        null,
+        null,
+        632
+    ],
+    [
+        "\u201cLet him think that I am more man than I am and I will be so.\u201d",
+        "Ernest Hemingway",
+        "The Old Man and the Sea",
+        null,
+        631
+    ],
+    [
+        "\u201cWe ate well and cheaply and drank well and cheaply and slept well and warm together and loved each other.\u201d",
+        "Ernest Hemingway",
+        "A Moveable Feast",
+        [],
+        613
+    ],
+    [
+        "\u201cNow is no time to think of what you do not have. Think of what you can do with that there is\u201d",
+        "Ernest Hemingway",
+        "The Old Man and the Sea",
+        null,
+        601
+    ],
+    [
+        "\u201cMadame, all stories, if continued far enough, end in death, and he is no true-story teller who would keep that from you.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "honesty",
+            "life",
+            "truth",
+            "wisdom"
+        ],
+        580
+    ],
+    [
+        "\u201cIt's none of their business that you have to learn how to write. Let them think you were born that way.\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        556
+    ],
+    [
+        "\u201cLive the full life of the mind, exhilarated by new ideas, intoxicated by the Romance of the unusual.\u201d",
+        "Ernest Hemingway",
+        null,
+        null,
+        551
+    ],
+    [
+        "\u201cAll my life I've looked at words as though I were seeing them for the first time.\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        542
+    ],
+    [
+        "\u201cHow did you go bankrupt?\" Two ways. Gradually, then suddenly.\u201d",
+        "Ernest Hemingway",
+        "The Sun Also Rises",
+        null,
+        527
+    ],
+    [
+        "\u201cWhy do old men wake so early? Is it to have one longer day?\u201d",
+        "Ernest Hemingway",
+        "The Old Man and the Sea",
+        null,
+        520
+    ],
+    [
+        "\u201cWhen you start to live outside yourself, it's all dangerous.\u201d",
+        "Ernest Hemingway",
+        "The Garden of Eden",
+        null,
+        496
+    ],
+    [
+        "\u201cWhy, darling, I don't live at all when I'm not with you.\u201d",
+        "Ernest Hemingway",
+        "A Farewell to Arms",
+        [
+            "ernest-hemingway",
+            "love"
+        ],
+        471
+    ],
+    [
+        "\u201cWe are all broken\u2014that\u2019s how the light gets in.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "misattributed-leonard-cohen"
+        ],
+        468
+    ],
+    [
+        "\u201cI like to listen. I have learned a great deal from listening carefully. Most people never listen.\u201d",
+        "Ernest Hemingway",
+        null,
+        [
+            "self",
+            "self-improvement",
+            "words-of-wisdom"
+        ],
+        468
+    ],
+    [
+        "\u201cI am always in love.\u201d",
+        "Ernest Hemingway",
+        "The Sun Also Rises",
+        [
+            "hemingway"
+        ],
+        455
+    ],
+    [
+        "\u201cThe most essential gift for a good writer is a built-in, shockproof, shit detector.\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        450
+    ],
+    [
+        "\u201cWhen writing a novel a writer should create living people; people not characters. A character is a caricature.\u201d",
+        "Ernest Hemingway",
+        "Death in the Afternoon",
+        [
+            "characters",
+            "skill",
+            "true-to-life",
+            "writing"
+        ],
+        430
+    ],
+    [
+        "\u201cThere is no rule on how to write. Sometimes it comes easily and perfectly; sometimes it's like drilling rock and then blasting it out with charges.\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        391
+    ],
+    [
+        "\u201cNo one you love is ever truly lost.\u201d",
+        "Ernest Hemingway",
+        null,
+        [],
+        377
+    ],
+    [
+        "\u201cI may not be as stong as I think, but I know many tricks and I have resolution.\u201d",
+        "Ernest Hemingway",
+        "The Old Man and the Sea",
+        null,
+        376
+    ],
+    [
+        "\u201cGoing to another country doesn\u2019t make any difference. I\u2019ve tried all that. You can\u2019t get away from yourself by moving from one place to another. There\u2019s nothing to that.\u201d",
+        "Ernest Hemingway",
+        "The Sun Also Rises",
+        null,
+        367
+    ]
+]
