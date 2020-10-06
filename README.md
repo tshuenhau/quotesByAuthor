@@ -3,6 +3,12 @@ A simple web scraper for goodreads.com that returns a list of quotes by your fav
 
 To use, simply open getQuotes.py, edit the list of authors to your liking, and then run the script.
 
+## Required Packages
+pip install requests
+pip install beautifulsoup4
+pip install Levenshtein
+pip install langdetect
+
 ## Examples
 to get quotes from Shakespeare and JK Rowling that are less than 175 characters:
 
