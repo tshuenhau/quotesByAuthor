@@ -2,4 +2,4 @@ import quotesByAuthor
 
 authorList = ["Shakespeare", "Ernest Hemingway"]
 
-quotesByAuthor.getAllQuotes(authorList, 175)
+quotesByAuthor.getAllQuotes(authorList, 150)
